@@ -35,36 +35,47 @@
     <td><img src="Mumbai_chart.png" alt="Mumbai temperature chart" width="100%"></td>
   </tr>
   <tr>
-    <td align="left"><a href="data/Delhi_weather.csv">📄 Delhi_weather.csv</a></td>
-    <td align="right"><a href="data/Mumbai_weather.csv">📄 Mumbai_weather.csv</a></td>
+    <td align="center"><a href="data/Delhi_weather.csv">📄 Delhi_weather.csv</a></td>
+    <td align="center"><a href="data/Mumbai_weather.csv">📄 Mumbai_weather.csv</a></td>
   </tr>
 </table>
 
-**Sample output (Delhi):**
+**Sample output:**
 
-| date       | max_temp | min_temp |
-|------------|----------|----------|
-| 2026-10-13 | 32.3     | 23.4     |
-| 2026-10-14 | 32.5     | 23.7     |
-| 2026-10-15 | 25.4     | 19.7     |
-| 2026-10-16 | 28.6     | 20.5     |
-| 2026-10-17 | 29.4     | 20.8     |
-| 2026-10-18 | 29.5     | 20.1     |
-| 2026-10-19 | 29.8     | 19.8     |
-| 2026-10-20 | 29.8     | 19.7     |
-
-**Sample output (Mumbai):**
-
-| date       | max_temp | min_temp |
-|------------|----------|----------|
-| 2026-10-13 | 38.2     | 27.4     |
-| 2026-10-14 | 37.6     | 27.3     |
-| 2026-10-15 | 37.6     | 27.6     |
-| 2026-10-16 | 37.1     | 26.9     |
-| 2026-10-17 | 36.1     | 27.0     |
-| 2026-10-18 | 35.7     | 27.2     |
-| 2026-10-19 | 36.7     | 27.1     |
-| 2026-10-20 | 35.2     | 27.5     |
+<table>
+  <tr>
+    <th align="center">Delhi</th>
+    <th align="center">Mumbai</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <table>
+        <tr><th>date</th><th>max_temp</th><th>min_temp</th></tr>
+        <tr><td>2026-10-13</td><td>32.3</td><td>23.4</td></tr>
+        <tr><td>2026-10-14</td><td>32.5</td><td>23.7</td></tr>
+        <tr><td>2026-10-15</td><td>25.4</td><td>19.7</td></tr>
+        <tr><td>2026-10-16</td><td>28.6</td><td>20.5</td></tr>
+        <tr><td>2026-10-17</td><td>29.4</td><td>20.8</td></tr>
+        <tr><td>2026-10-18</td><td>29.5</td><td>20.1</td></tr>
+        <tr><td>2026-10-19</td><td>29.8</td><td>19.8</td></tr>
+        <tr><td>2026-10-20</td><td>29.8</td><td>19.7</td></tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table>
+        <tr><th>date</th><th>max_temp</th><th>min_temp</th></tr>
+        <tr><td>2026-10-13</td><td>38.2</td><td>27.4</td></tr>
+        <tr><td>2026-10-14</td><td>37.6</td><td>27.3</td></tr>
+        <tr><td>2026-10-15</td><td>37.6</td><td>27.6</td></tr>
+        <tr><td>2026-10-16</td><td>37.1</td><td>26.9</td></tr>
+        <tr><td>2026-10-17</td><td>36.1</td><td>27.0</td></tr>
+        <tr><td>2026-10-18</td><td>35.7</td><td>27.2</td></tr>
+        <tr><td>2026-10-19</td><td>36.7</td><td>27.1</td></tr>
+        <tr><td>2026-10-20</td><td>35.2</td><td>27.5</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
