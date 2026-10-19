@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center"><a href="data/Delhi_weather.csv">📄 Delhi_weather.csv</a></td>
-    <td align="center"><a href="data/Mumbai_weather">📄 Mumbai_weather.csv</a></td>
+    <td align="center"><a href="data/Mumbai_weather.csv">📄 Mumbai_weather.csv</a></td>
   </tr>
 </table>
 
