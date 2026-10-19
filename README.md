@@ -35,8 +35,8 @@
     <td><img src="Mumbai_chart.png" alt="Mumbai temperature chart" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><a href="data/Delhi_weather.csv">📄 Delhi_weather.csv</a></td>
-    <td align="center"><a href="data/Mumbai_weather.csv">📄 Mumbai_weather.csv</a></td>
+    <td align="left"><a href="data/Delhi_weather.csv">📄 Delhi_weather.csv</a></td>
+    <td align="right"><a href="data/Mumbai_weather.csv">📄 Mumbai_weather.csv</a></td>
   </tr>
 </table>
 
